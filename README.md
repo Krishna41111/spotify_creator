@@ -1,7 +1,3 @@
-Below is a ready-to-copy README.md for your GitHub repository.
-It explains what the script does, how to set it up, how to run it, and important warnings.
-Feel free to edit the repo name, your GitHub handle, or add a license.markdown
-
 # Spotify Account Creator + Playlist Liker
 
 **Automates Spotify account creation, likes 3 songs in a target playlist, and saves the playlist to the library.**  
@@ -102,22 +98,4 @@ AuthorYOUR NAME – @YOUR-USERNAMELicense
 MIT License – Feel free to fork and improve.
 
 Star the repo if it helped you!
-
----
-
-### How to Use This README
-
-1. Create a new GitHub repo: `spotify-signup-bot`
-2. Upload `single.py`
-3. Create `README.md` → paste the above content
-4. Replace `YOUR-USERNAME` and `YOUR NAME`
-5. Commit!
-
-Let me know if you want:
-- A **loop version** (10 accounts)
-- **Proxy support**
-- **Cookie saver**
-- **GitHub Actions auto-run**
-
-You're all set for GitHub!
 
