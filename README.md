@@ -1,5 +1,3 @@
-Here is the perfect, ready-to-use README.md for your GitHub repository:
-https://github.com/Krishna41111/spotify_creatorREADME.md (Copy & Paste This)markdown
 
 # Spotify Account Creator + Playlist Liker
 
